@@ -7,3 +7,4 @@ This line was added in the feature-2 branch.
 Another modification in the feature-2 branch.
 
 hello.
+Another hello.
